@@ -1,6 +1,6 @@
 # GDP Visualizer - Stats 220 Final Project
 
-Link to Shiny app](https://isabella-cha.shinyapps.io/finalproject-chaisabella/)
+[Link to Shiny app](https://isabella-cha.shinyapps.io/finalproject-chaisabella/)
 
 ## In this repo, you can find:
 
