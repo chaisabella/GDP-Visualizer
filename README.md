@@ -1,6 +1,6 @@
-# Stats 220 Final Project
+# GDP Visualizer - Stats 220 Final Project
 
-My Shiny app allows us to explore how economic conditions vary from state to state, and over time. [Link to Shiny app](https://isabella-cha.shinyapps.io/finalproject-chaisabella/)
+Link to Shiny app](https://isabella-cha.shinyapps.io/finalproject-chaisabella/)
 
 ## In this repo, you can find:
 
